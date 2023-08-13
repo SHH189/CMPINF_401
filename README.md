@@ -1,3 +1,3 @@
 # CMPINF_401
 
-Assignments and labs from my intermediate programming course.
+Assignments and labs from an intermediate programming course.
