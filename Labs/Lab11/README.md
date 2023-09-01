@@ -1,1 +1,1 @@
-# Lab 11: Intro to GUIs
+# Lab 11
